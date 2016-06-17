@@ -27,9 +27,7 @@ some [expectations] that describes what we expect from you.
 
 ## Technical Requirements
 
-- Languages that are allowed are Node.JS and Java
-- You can use either language for either component
-- You can use any libraries or frameworks
+- Feel free to use any languages, libraries or frameworks you like
 - Use as little client side Javascript as you can
 
 
