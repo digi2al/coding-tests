@@ -17,7 +17,7 @@ we expect from you.
 
 ### Rock Paper Scissors Lizard Spock
 
-- There are 3 valid moves: Rock, Paper, Scissors, Lizard, Spock
+- There are 5 valid moves: Rock, Paper, Scissors, Lizard, Spock
 - Rock breaks Scissors
 - Paper covers Rock
 - Scissors cut Paper
